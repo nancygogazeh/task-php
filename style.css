@@ -1,0 +1,36 @@
+.heading {
+width :500px;
+margin :10px auto ;
+text-align: center;
+color: blanchedalmond;
+background: rgb(98, 92, 162);
+border: 2px solid wheat;
+border-radius: 20px;
+
+}
+
+.form1{
+width:50%;
+margin :10px auto ;
+padding: 10px;
+
+border: 2px solid rgb(98, 92, 162);
+border-radius: px;
+
+}
+
+
+.task_btn{
+    border-radius: 5px;
+    border: 2px solid rgb(98, 92, 162);
+    background: white;
+    height: 40px;
+}
+.task_input{
+
+    border-radius: 5px;
+    border: 2px solid rgb(98, 92, 162);
+    background: white;
+    height: 40px;
+    width: 200px;
+}
